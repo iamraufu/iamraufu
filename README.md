@@ -1,4 +1,4 @@
-![GIF](https://github.com/iamraufu/iamraufu/blob/master/Assets/banner.jpg)
+![GIF](https://github.com/iamraufu/iamraufu/blob/main/Assets/banner.jpg)
 
 
 [![HitCount](http://hits.dwyl.com/iamraufu/iamraufu.svg)](http://hits.dwyl.com/iamraufu/iamraufu)
