@@ -1,6 +1,7 @@
 ![GIF](https://github.com/iamraufu/iamraufu/blob/main/Assets/banner.jpg)
 
-
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:eftykhar.rahman@g.bracu.ac.bd)
+[![Twitter Follow] (https://img.shields.io/twitter/follow/2432?style=social)
 [![HitCount](http://hits.dwyl.com/iamraufu/iamraufu.svg)](http://hits.dwyl.com/iamraufu/iamraufu)
  <img src="https://komarev.com/ghpvc/?username=iamraufu">
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamraufu.iamraufu) -->
