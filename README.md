@@ -42,12 +42,7 @@ I'm interested in developing user friendly web apps in MERN Stack. I love to wor
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
-![ReactJS]
-![NodeJS](https://simpleicons.org/icons/node-dot-js.svg)
-![MongoDB]
-![PHP]
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
+![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=nodejs)
 
 ## Tools:
 
