@@ -14,7 +14,7 @@ I am Eftykhar Rahman. But you will find me everywhere with the handle name **Rau
 - 🌱 I’m currently learning Node backend
 - 👯 I’m looking to collaborate on opensource and group projects.
 
-Specializing in Front End Development. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python**, **FORTRAN**, **MATLAB** etc. Strong background in project management and customer relations.
+Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python**, **FORTRAN**, **MATLAB** etc. Strong background in project management and customer relations.
 
 I'm interested in developing user friendly web apps in **MERN Stack**. I love to work with new technologies and playing with different stacks. 🤖
 
