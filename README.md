@@ -70,6 +70,7 @@ I'm interested in developing user friendly web apps in MERN Stack. I love to wor
   <a href="https://github.com/iamraufu"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamraufu&layout=compact&theme=radical" />
 </a>
 </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SakifKhan98&theme=synthwave&show_icons=true" alt="SakifKhan98" /> </h1>
 <!-- -->
 
 [website]: https://iamraufu.github.io/
