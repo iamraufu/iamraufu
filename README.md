@@ -7,16 +7,16 @@
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamraufu.iamraufu) -->
 ### Hi there 👋
 
-I am Eftykhar Rahman. But you will find me everywhere with the handle name Raufu Prezens. I'm a self-taught Web Developer.  
+I am Eftykhar Rahman. But you will find me everywhere with the handle name **Raufu Prezens**. I'm a self-taught Web Developer.  
 
 - 💻 I ~like~ **love** coding
 - 🔭 I’m currently working on a web-app. Keep an eye for it.
 - 🌱 I’m currently learning Node backend
 - 👯 I’m looking to collaborate on opensource and group projects.
 
-Specializing in Front End Development. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including HTML5, CSS, JavaScript, ReactJS, NodeJS, MongoDB, MySQL, Python, FORTRAN, MATLAB etc. Strong background in project management and customer relations.
+Specializing in Front End Development. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python**, **FORTRAN**, **MATLAB** etc. Strong background in project management and customer relations.
 
-I'm interested in developing user friendly web apps in MERN Stack. I love to work with new technologies and playing with different stacks. 🤖
+I'm interested in developing user friendly web apps in **MERN Stack**. I love to work with new technologies and playing with different stacks. 🤖
 
 <!-- - Usesless Stats:
 - 🏅 Number of times I was asked to hack a FB : 3
@@ -42,7 +42,6 @@ I'm interested in developing user friendly web apps in MERN Stack. I love to wor
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=nodejs)
 
 ## Tools:
 
