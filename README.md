@@ -7,12 +7,20 @@
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamraufu.iamraufu) -->
 ### Hi there 👋
 
-I am Eftykhar Rahman. But you will find me everywhere with handle name iamraufu. I am an undergraduate student at BRACU CSE.
+I am Eftykhar Rahman. But you will find me everywhere with the handle name Raufu Prezens. I'm a self-taught Web Developer.  
 
 - 💻 I ~like~ **love** coding
 - 🔭 I’m currently working on a web-app. Keep an eye for it.
 - 🌱 I’m currently learning Node backend
 - 👯 I’m looking to collaborate on opensource and group projects.
+
+Specializing in Front End Development. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including HTML5, CSS, JavaScript, ReactJS, NodeJS, MongoDB, MySQL, Python, FORTRAN, MATLAB etc. Strong background in project management and customer relations.
+
+I am an undergraduate student at BRACU CSE.
+
+I'm interested in developing user friendly web apps in MERN Stack
+I love to work with new technologies and playing with different stacks.🤖
+
 <!-- - Usesless Stats:
 - 🏅 Number of times I was asked to hack a FB : 3
 - 📱  Number of times I was approached with an app idea: 7 
@@ -23,7 +31,7 @@ I am Eftykhar Rahman. But you will find me everywhere with handle name iamraufu.
  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="iamraufu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="iamraufu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="iamraufu | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+[<img align="left" alt="iamraufu | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
 <br /> 
 
@@ -62,5 +70,5 @@ I am Eftykhar Rahman. But you will find me everywhere with handle name iamraufu.
 [website]: https://iamraufu.github.io/
 [instagram]: https://instagram.com/iamraufu
 [facebook]: https://www.facebook.com/iamraufu/
-[codeforces]:https://codeforces.com/profile/iamraufu
+[leetcode]:https://codeforces.com/profile/iamraufu
 [linkedin]:https://www.linkedin.com/in/eftykharrahman/
