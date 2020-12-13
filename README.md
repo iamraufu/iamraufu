@@ -61,17 +61,11 @@ I'm interested in developing user friendly web apps in MERN Stack. I love to wor
 
 ## Github Overview
 
-<img align="left" alt="iamraufu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamraufu&show_icons=true" />   &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamraufu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-<br />
-<!-- -->
 <p align="left">
   <a href="https://github.com/iamraufu"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamraufu&layout=compact&theme=radical" />
 </a>
 </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamraufu&theme=synthwave&show_icons=true" alt="iamraufu" /> </h1>
-<!-- -->
 
 [website]: https://iamraufu.github.io/
 [instagram]: https://instagram.com/iamraufu
