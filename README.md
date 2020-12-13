@@ -16,10 +16,7 @@ I am Eftykhar Rahman. But you will find me everywhere with the handle name Raufu
 
 Specializing in Front End Development. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including HTML5, CSS, JavaScript, ReactJS, NodeJS, MongoDB, MySQL, Python, FORTRAN, MATLAB etc. Strong background in project management and customer relations.
 
-I am an undergraduate student at BRACU CSE.
-
-I'm interested in developing user friendly web apps in MERN Stack
-I love to work with new technologies and playing with different stacks.🤖
+I'm interested in developing user friendly web apps in MERN Stack. I love to work with new technologies and playing with different stacks.🤖
 
 <!-- - Usesless Stats:
 - 🏅 Number of times I was asked to hack a FB : 3
@@ -28,7 +25,7 @@ I love to work with new technologies and playing with different stacks.🤖
  ## Connect with me:
 
 [<img align="left" alt="iamraufu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="iamraufu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="iamraufu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="iamraufu | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
@@ -70,5 +67,5 @@ I love to work with new technologies and playing with different stacks.🤖
 [website]: https://iamraufu.github.io/
 [instagram]: https://instagram.com/iamraufu
 [facebook]: https://www.facebook.com/iamraufu/
-[leetcode]:https://codeforces.com/profile/iamraufu
+[leetcode]:https://leetcode.com/profile/iamraufu
 [linkedin]:https://www.linkedin.com/in/eftykharrahman/
