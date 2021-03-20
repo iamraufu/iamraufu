@@ -59,8 +59,8 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
     
    <a href="https://github.com/iamraufu/shopping-cart">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=shopping-cart&theme=react&bg_color=0D1117&hide_border=true" alt="shopping-cart"></a>
-  <a href="https://github.com/iamraufu/cruise-queen">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=cruise-queen&theme=react&bg_color=0D1117&hide_border=true" alt="cruise-queen"></a>
+  <a href="https://github.com/iamraufu/cruisequeen">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=cruisequeen&theme=react&bg_color=0D1117&hide_border=true" alt="cruisequeen"></a>
   <a href="https://github.com/iamraufu/raufu-bank-locker">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=raufu-bank-locker&theme=react&bg_color=0D1117&hide_border=true" alt="raufu-bank-locker"></a>
 </p>
