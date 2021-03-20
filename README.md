@@ -33,7 +33,7 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
 - 📱  Number of times I was approached with an app idea: 9 
 -->
 
-## 📘 Projects
+## Projects
 
 <p align="left">
   <a href="https://github.com/iamraufu/ema-john-simple">
@@ -42,6 +42,20 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=panda-commerce&theme=react&bg_color=0D1117&hide_border=true" alt="panda-commerce"></a>
   <a href="https://github.com/iamraufu/covid19">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=covid19&theme=react&bg_color=0D1117&hide_border=true" alt="covid-19"></a>
+ 
+ <a href="https://github.com/iamraufu/ultra-nation">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=ultra-nation&theme=react&bg_color=0D1117&hide_border=true" alt="ultra-nation"></a>
+  <a href="https://github.com/iamraufu/quotes">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=quotes&theme=react&bg_color=0D1117&hide_border=true" alt="quotes"></a>
+  <a href="https://github.com/iamraufu/jokes">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=jokes&theme=react&bg_color=0D1117&hide_border=true" alt="jokes"></a>
+ 
+ <a href="https://github.com/iamraufu/leader-board">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=leader-board&theme=react&bg_color=0D1117&hide_border=true" alt="leader-board"></a>
+  <a href="https://github.com/iamraufu/backpack-moon">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=backpack-moon&theme=react&bg_color=0D1117&hide_border=true" alt="backpack-moon"></a>
+  <a href="https://github.com/iamraufu/raufu-bank">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=raufu-bank&theme=react&bg_color=0D1117&hide_border=true" alt="raufu-bank"></a>
 </p>
 
 ## Connect with me:
