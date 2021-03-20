@@ -14,13 +14,15 @@ I am Eftykhar Rahman. But you will find me everywhere with the handle name **Rau
 - 🌱 I’m currently learning Node backend
 - 👯 I’m looking to collaborate on opensource and group projects.
 
-Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python**, **FORTRAN**, **MATLAB** etc. Strong background in project management and customer relations.
+Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python**<!---, **FORTRAN**, **MATLAB**--> etc. 
+
+Strong background in Project Management and Customer Relations. Experience in software development process like **Agile** , **Scrum** and MVC(Model-View-Controller) design pattern.
 
 I'm interested in developing user friendly web apps in **MERN Stack**. I love to work with new technologies and playing with different stacks 🤖
 
 <!-- - Usesless Stats:
-- 🏅 Number of times I was asked to hack a FB : 3
-- 📱  Number of times I was approached with an app idea: 7 
+- 🏅 Number of times I was asked to hack a FB : 5
+- 📱  Number of times I was approached with an app idea: 9 
 -->
  ## Connect with me:
 
@@ -34,14 +36,17 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
 
 ## Languages
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+<!--![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)-->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![BootStrap5](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=bootstrap)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+<!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
 
 ## Tools:
 
@@ -50,7 +55,11 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
-![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) <br />
+![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux) <br />
+![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase) 
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku) <br />
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) <br />
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
@@ -60,11 +69,15 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
 
 ## Github Overview
 
+<p align="center">
+ <a href="https://github.com/iamraufu"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamraufu&theme=dark"></a>
+</p>
 <p align="left">
   <a href="https://github.com/iamraufu"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamraufu&layout=compact&theme=radical" />
 </a>
 </p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamraufu&theme=synthwave&show_icons=true" alt="iamraufu" /> </h1>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamraufu&theme=synthwave&show_icons=true" alt="iamraufu" />
+
 
 [website]: https://iamraufu.github.io/
 [instagram]: https://instagram.com/iamraufu
