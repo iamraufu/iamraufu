@@ -68,6 +68,8 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=birthdaycountdown&theme=react&bg_color=0D1117&hide_border=true" alt="birthdaycountdown"></a>
   <a href="https://github.com/iamraufu/bplt20">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=bplt20&theme=react&bg_color=0D1117&hide_border=true" alt="bplt20"></a>
+<a href="https://github.com/iamraufu/hard-rock">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=hard-rock&theme=react&bg_color=0D1117&hide_border=true" alt="hard-rock"></a>
      
 </p>
 
