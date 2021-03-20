@@ -93,6 +93,7 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Flutter](https://img.shields.io/badge/-Flutter-000005?style=flat&logo=flutter)
 <!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
 
 ## Tools:
