@@ -32,7 +32,15 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
 - 🏅 Number of times I was asked to hack a FB : 5
 - 📱  Number of times I was approached with an app idea: 9 
 -->
- ## Connect with me:
+
+## 📘 Projects
+
+<p align="left">
+ <a href="https://github.com/iamraufu/ema-john-simple"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=ema-john-simple&theme=react&bg_color=0D1117&hide_border=true"> </a>
+ <a href="https://github.com/iamraufu/panda-commerce"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=panda-commerce&theme=react&bg_color=0D1117&hide_border=true"></a>
+</p>
+
+## Connect with me:
 
 [<img align="left" alt="iamraufu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
