@@ -44,13 +44,6 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=covid19&theme=react&bg_color=0D1117&hide_border=true" alt="covid-19"></a>
 </p>
 
-<p align="left">
- <a href="https://github.com/iamraufu/ema-john-simple"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=ema-john-simple&theme=react&bg_color=0D1117&hide_border=true"> </a>
- <a href="https://github.com/iamraufu/panda-commerce"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=panda-commerce&theme=react&bg_color=0D1117&hide_border=true"></a>
-</p>
-<a href="https://github.com/iamraufu/covid19"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=covid19&theme=react&bg_color=0D1117&hide_border=true"></a>
-</p>
-
 ## Connect with me:
 
 [<img align="left" alt="iamraufu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
