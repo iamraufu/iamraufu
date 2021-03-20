@@ -56,6 +56,13 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=backpack-moon&theme=react&bg_color=0D1117&hide_border=true" alt="backpack-moon"></a>
   <a href="https://github.com/iamraufu/raufu-bank">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=raufu-bank&theme=react&bg_color=0D1117&hide_border=true" alt="raufu-bank"></a>
+    
+    <a href="https://github.com/iamraufu/shopping-cart">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=shopping-cart&theme=react&bg_color=0D1117&hide_border=true" alt="shopping-cart"></a>
+  <a href="https://github.com/iamraufu/cruise-queen">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=cruise-queen&theme=react&bg_color=0D1117&hide_border=true" alt="cruise-queen"></a>
+  <a href="https://github.com/iamraufu/raufu-bank-locker">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=raufu-bank-locker&theme=react&bg_color=0D1117&hide_border=true" alt="raufu-bank-locker"></a>
 </p>
 
 ## Connect with me:
