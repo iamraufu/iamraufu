@@ -36,6 +36,20 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
 ## 📘 Projects
 
 <p align="left">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=0D1117&hide_border=true" alt="LaTeX-Gboard-Dictionary"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-youtube-stats">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-stats&theme=react&bg_color=0D1117&hide_border=true" alt="github-readme-youtube-stats"></a>
+  <a href="https://github.com/DenverCoder1/weather-app-tutorial">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=weather-app-tutorial&theme=react&bg_color=0D1117&hide_border=true" alt="weather-app-tutorial"></a>
+  <a href="https://github.com/DenverCoder1/unicode-formatter">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=0D1117&hide_border=true" alt="unicode-formatter"></a>
+  <a href="https://github.com/DenverCoder1/Unedit-for-Reddit">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&hide_border=true&bg_color=0D1117&theme=react" alt="Unedit-for-Reddit"></a>
+</p>
+<p align="left">
  <a href="https://github.com/iamraufu/ema-john-simple"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=ema-john-simple&theme=react&bg_color=0D1117&hide_border=true"> </a>
  <a href="https://github.com/iamraufu/panda-commerce"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=panda-commerce&theme=react&bg_color=0D1117&hide_border=true"></a>
 </p>
