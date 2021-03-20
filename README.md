@@ -43,7 +43,7 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
 ![BootStrap5](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=bootstrap)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 <!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
@@ -72,11 +72,11 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
 <p align="center">
  <a href="https://github.com/iamraufu"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamraufu&theme=dark"></a>
 </p>
-<p align="left">
+<p align="center">
   <a href="https://github.com/iamraufu"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamraufu&layout=compact&theme=radical" />
 </a>
 </p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamraufu&theme=synthwave&show_icons=true" alt="iamraufu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamraufu&theme=synthwave&show_icons=true" alt="iamraufu" />
 
 
 [website]: https://iamraufu.github.io/
