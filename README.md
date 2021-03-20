@@ -69,14 +69,14 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
 
 ## Github Overview
 
-<p align="center">
+<p align="left">
  <a href="https://github.com/iamraufu"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamraufu&theme=dark"></a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/iamraufu"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamraufu&layout=compact&theme=radical" />
 </a>
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamraufu&theme=synthwave&show_icons=true" alt="iamraufu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamraufu&theme=synthwave&show_icons=true" alt="iamraufu" />
 
 
 [website]: https://iamraufu.github.io/
