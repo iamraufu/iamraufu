@@ -105,7 +105,6 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
 <!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
 
 ## Tools:
-
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
@@ -124,7 +123,7 @@ I'm interested in developing user friendly web apps in **MERN Stack**. I love to
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
 ![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)
 
-## Github Overview
+## GitHub Overview
 
 <p align="left">
  <a href="https://github.com/iamraufu"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamraufu&theme=dark"></a>
