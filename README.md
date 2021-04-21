@@ -18,15 +18,21 @@
 I am Eftykhar Rahman. But you will find me everywhere with the handle name **Raufu Prezens**. I'm a self-taught Web Developer.  
 
 - 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on a web-app. Keep an eye for it.
-- 🌱 I’m currently learning Node backend
+- 🔭 I’m currently ~working on a web-app. Keep an eye for it.~ **preparing for semester finals**
+- 🌱 I’m currently learning ~Node backend~ **Next JS**
 - 👯 I’m looking to collaborate on opensource and group projects.
 
-Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python**<!---, **FORTRAN**, **MATLAB**--> etc. 
+<!-- Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python**, **FORTRAN**, **MATLAB** etc. -->
 
-Strong background in Project Management and Customer Relations. Experience in software development process like **Agile** , **Scrum** and **MVC (Model-View-Controller)** design pattern.
+<!-- Strong background in Project Management and Customer Relations. Experience in software development process like **Agile** , **Scrum** and **MVC (Model-View-Controller)** design pattern. -->
 
-I'm interested in developing user friendly web apps in **MERN Stack**. I love to work with new technologies and playing with different stacks 🤖
+<!-- I'm interested in developing user friendly web apps in **MERN Stack**. I love to work with new technologies and playing with different stacks 🤖 -->
+
+Having some expertise in **Front End Development**. Experienced with various ways to deal with the advancement of dynamic web projects. Knowledgeable in various programming dialects and libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python** and so on. 
+
+Solid foundation in Project Management and Customer Relations. Involvement with software development process like **Agile** , **Scrum** and **MVC (Model-View-Controller)** configuration design. 
+
+I'm keen on creating easy to understand web applications in **MERN Stack**. I love to work with new advances and playing with various stacks 🤖
 
 <!-- - Usesless Stats:
 - 🏅 Number of times I was asked to hack a FB : 5
