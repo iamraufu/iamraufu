@@ -39,6 +39,8 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 - 📱  Number of times I was approached with an app idea: 9 
 -->
 
+             <button><a href="https://github.com/iamraufu/iamraufu/raw/main/Assets/Resume.pdf" download>Download Resume</a></button>
+
 ## Projects
 
 <p align="left">
