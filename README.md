@@ -39,15 +39,15 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 - 📱  Number of times I was approached with an app idea: 9 
 -->
 
-             <button><a href="https://github.com/iamraufu/iamraufu/raw/main/Assets/Resume.pdf" download>Download Resume</a></button>
+<button><a href="https://github.com/iamraufu/iamraufu/raw/main/Assets/Resume.pdf" download>Download Resume</a></button>
 
 ## Projects
 
 <p align="left">
  <a href="https://github.com/iamraufu/raufuchat">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=raufuchat&theme=react&bg_color=0D1117&hide_border=true" alt="raufuchat"></a>
-  <a href="https://github.com/iamraufu/ema-john-simple">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=ema-john-simple&theme=react&bg_color=0D1117&hide_border=true" alt="ema-john-simple"></a>
+  <a href="https://github.com/iamraufu/ema-john-client">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=ema-john-client&theme=react&bg_color=0D1117&hide_border=true" alt="ema-john-client"></a>
   <a href="https://github.com/iamraufu/panda-commerce">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=panda-commerce&theme=react&bg_color=0D1117&hide_border=true" alt="panda-commerce"></a>
   <a href="https://github.com/iamraufu/covid19">
