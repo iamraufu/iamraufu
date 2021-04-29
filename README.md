@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:eftykhar.rahman@g.bracu.ac.bd)
 [![Twitter Follow](https://img.shields.io/twitter/follow/10?label=Followers&style=social)](https://twitter.com/iamraufu)
-[![HitCount](http://hits.dwyl.com/iamraufu/iamraufu.svg)](http://hits.dwyl.com/iamraufu/iamraufu)
+<!-- [![HitCount](http://hits.dwyl.com/iamraufu/iamraufu.svg)](http://hits.dwyl.com/iamraufu/iamraufu) -->
  <img src="https://komarev.com/ghpvc/?username=iamraufu">
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamraufu.iamraufu) -->
 <!--### Hi there 👋-->
@@ -38,9 +38,8 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 - 🏅 Number of times I was asked to hack a FB : 5
 - 📱  Number of times I was approached with an app idea: 9 
 -->
-<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
 
-<button><a href="https://github.com/iamraufu/iamraufu/raw/main/Assets/Resume.pdf" download>Download Resume <i class="fas fa-download"></i></a></button>
+<a href="https://github.com/iamraufu/iamraufu/raw/main/Assets/Resume.pdf" download>Download Resume</a>
 
 ## Projects
 
