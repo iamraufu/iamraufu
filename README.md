@@ -18,9 +18,9 @@
 I am Eftykhar Rahman. But you will find me everywhere with the handle name **Raufu Prezens**. I'm a self-taught Web Developer.  
 
 - 💻 I ~like~ **love** coding
-- 🔭 I’m currently ~working on a web-app. Keep an eye for it.~ **preparing for semester finals**
+- 🔭 I’m currently working on a web-app. Keep an eye for it.
 - 🌱 I’m currently learning ~Node backend~ **Next JS**
-- 👯 I’m looking to collaborate on opensource and group projects.
+- 👯 I’m looking ~to collaborate on opensource and group projects~ **for an Internship or Part Time Job**.
 
 <!-- Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python**, **FORTRAN**, **MATLAB** etc. -->
 
@@ -38,8 +38,9 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 - 🏅 Number of times I was asked to hack a FB : 5
 - 📱  Number of times I was approached with an app idea: 9 
 -->
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
 
-<button><a href="https://github.com/iamraufu/iamraufu/raw/main/Assets/Resume.pdf" download>Download Resume</a></button>
+<button><a href="https://github.com/iamraufu/iamraufu/raw/main/Assets/Resume.pdf" download>Download Resume <i class="fas fa-download"></i></a></button>
 
 ## Projects
 
