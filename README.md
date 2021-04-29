@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:eftykhar.rahman@g.bracu.ac.bd)
 [![Twitter Follow](https://img.shields.io/twitter/follow/10?label=Followers&style=social)](https://twitter.com/iamraufu)
 <!-- [![HitCount](http://hits.dwyl.com/iamraufu/iamraufu.svg)](http://hits.dwyl.com/iamraufu/iamraufu) -->
- <img src="https://komarev.com/ghpvc/?username=iamraufu">
+<img src="https://komarev.com/ghpvc/?username=iamraufu">
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamraufu.iamraufu) -->
 <!--### Hi there 👋-->
 <h3 align="center">
