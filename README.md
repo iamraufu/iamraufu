@@ -1,9 +1,10 @@
 ![GIF](https://github.com/iamraufu/iamraufu/blob/main/Assets/banner.jpg)
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:eftykhar.rahman@g.bracu.ac.bd)
-[![Twitter Follow](https://img.shields.io/twitter/follow/10?label=Followers&style=social)](https://twitter.com/iamraufu)
-<!-- [![HitCount](http://hits.dwyl.com/iamraufu/iamraufu.svg)](http://hits.dwyl.com/iamraufu/iamraufu) -->
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:raufu.dev@gmail.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/100?label=Followers&style=social)](https://twitter.com/iamraufu)
 <img src="https://komarev.com/ghpvc/?username=iamraufu">
+<!-- [![HitCount](http://hits.dwyl.com/iamraufu/iamraufu.svg)](http://hits.dwyl.com/iamraufu/iamraufu) -->
+
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamraufu.iamraufu) -->
 <!--### Hi there 👋-->
 <h3 align="center">
@@ -12,7 +13,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-Stack%20Web%20and%20App%20Developer;Self-taught%20UI%2FUX%20Designer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Full+Stack+Web+Developer;Self+taught+UI%2FUX+Designer;5%2B+years+of+coding+experience;Always+learning+new+things">
 </p>
 
 I am Eftykhar Rahman. But you will find me everywhere with the handle name **Raufu Prezens**. I'm a self-taught Web Developer.  
