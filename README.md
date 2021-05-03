@@ -40,7 +40,7 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 - 📱  Number of times I was approached with an app idea: 9 
 -->
 
-<a href="https://github.com/iamraufu/iamraufu/blob/main/Assets/Resume%20of%20Eftykhar%20Rahman.pdf" download>Download Resume</a>
+<a href="https://github.com/iamraufu/iamraufu/raw/main/Assets/Resume%20of%20Eftykhar%20Rahman.pdf" download>Download Resume</a>
 
 ## Projects
 
