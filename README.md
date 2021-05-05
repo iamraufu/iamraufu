@@ -45,6 +45,14 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 ## Projects
 
 <p align="left">
+  
+  <a href="https://github.com/iamraufu/rabeya-food-fitness">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=rabeya-food-fitness&theme=react&bg_color=0D1117&hide_border=true" alt="rabeya-food-fitness"></a>
+    <a href="https://github.com/iamraufu/service-boy-client">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=service-boy-client&theme=react&bg_color=0D1117&hide_border=true" alt="service boy client"></a>
+    <a href="https://github.com/iamraufu/paperback-client">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=paperback-client&theme=react&bg_color=0D1117&hide_border=true" alt="paperback client"></a>
+    
  <a href="https://github.com/iamraufu/raufuchat">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=raufuchat&theme=react&bg_color=0D1117&hide_border=true" alt="raufuchat"></a>
   <a href="https://github.com/iamraufu/ema-john-client">
