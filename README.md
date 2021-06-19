@@ -20,8 +20,8 @@ I am Eftykhar Rahman. But you will find me everywhere with the handle name **Rau
 
 - 💻 I ~like~ **love** coding
 - 🔭 I’m currently working on a web-app. Keep an eye for it.
-- 🌱 I’m currently learning ~Node backend~ **Next JS**
-- 👯 I’m looking ~to collaborate on opensource and group projects~ **for an Internship or Part Time Job**.
+- 🌱 I’m currently ~learning Next JS~ working to improve marketting of instagram influencers
+- 👯 I’m looking to collaborate on opensource and group projects.
 
 <!-- Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python**, **FORTRAN**, **MATLAB** etc. -->
 
