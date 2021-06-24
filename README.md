@@ -19,7 +19,7 @@
 I am Eftykhar Rahman. But you will find me everywhere with the handle name **Raufu Prezens**. I'm a self-taught Web Developer.  
 
 - 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on ~a web-app. Keep an eye for it.~ Machine Learning Libraries
+- 🔭 I’m currently working on <!-- a web-app. Keep an eye for it. --> Machine Learning Libraries
 - 🌱 I’m currently learning Machine Learning 
 - 👯 ~I’m looking to collaborate on opensource and group projects.~
 
