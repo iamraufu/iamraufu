@@ -46,6 +46,9 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 
 <p align="left">
   
+  <a href="https://github.com/iamraufu/skillshikhun">
+    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=skillshikhun&theme=react&bg_color=0D1117&hide_border=true" alt="skillshikhun">
+  </a>
   <a href="https://github.com/iamraufu/aachol-foundation">
     <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=aachol-foundation&theme=react&bg_color=0D1117&hide_border=true" alt="aachol-foundation">
   </a>
