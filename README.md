@@ -37,7 +37,7 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 
 <!-- - Usesless Stats:
 - 🏅 Number of times I was asked to hack a FB : 5
-- 📱  Number of times I was approached with an app idea: 9 
+- 📱  Number of times I was approached with an app idea: 15 
 -->
 
 <a href="https://github.com/iamraufu/iamraufu/raw/main/Assets/Resume%20of%20Eftykhar%20Rahman.pdf" download>Download Resume</a>
@@ -47,75 +47,75 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 <p align="left">
   
   <a href="https://github.com/iamraufu/skillshikhun">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=skillshikhun&theme=react&bg_color=0D1117&hide_border=true" alt="skillshikhun">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=skillshikhun&theme=react&bg_color=0D1117&hide_border=true" alt="skillshikhun">
   </a>
   <a href="https://github.com/iamraufu/aachol-foundation">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=aachol-foundation&theme=react&bg_color=0D1117&hide_border=true" alt="aachol-foundation">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=aachol-foundation&theme=react&bg_color=0D1117&hide_border=true" alt="aachol-foundation">
   </a>
   <a href="https://github.com/iamraufu/jbitl">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=jbitl&theme=react&bg_color=0D1117&hide_border=true" alt="jbitl"></a>
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=jbitl&theme=react&bg_color=0D1117&hide_border=true" alt="jbitl"></a>
+    
   <a href="https://github.com/iamraufu/rabeya-food-fitness">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=rabeya-food-fitness&theme=react&bg_color=0D1117&hide_border=true" alt="rabeya-food-fitness">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=rabeya-food-fitness&theme=react&bg_color=0D1117&hide_border=true" alt="rabeya-food-fitness">
   </a>
-  
   <a href="https://github.com/iamraufu/service-boy-client">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=service-boy-client&theme=react&bg_color=0D1117&hide_border=true" alt="service boy client">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=service-boy-client&theme=react&bg_color=0D1117&hide_border=true" alt="service boy client">
   </a>
     <a href="https://github.com/iamraufu/paperback-client">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=paperback-client&theme=react&bg_color=0D1117&hide_border=true" alt="paperback client">
-  </a>
- <a href="https://github.com/iamraufu/raufuchat">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=raufuchat&theme=react&bg_color=0D1117&hide_border=true" alt="raufuchat">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=paperback-client&theme=react&bg_color=0D1117&hide_border=true" alt="paperback client">
   </a>
   
+ <a href="https://github.com/iamraufu/raufuchat">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=raufuchat&theme=react&bg_color=0D1117&hide_border=true" alt="raufuchat">
+  </a>
   <a href="https://github.com/iamraufu/ema-john-client">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=ema-john-client&theme=react&bg_color=0D1117&hide_border=true" alt="ema-john-client">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=ema-john-client&theme=react&bg_color=0D1117&hide_border=true" alt="ema-john-client">
   </a>
   <a href="https://github.com/iamraufu/panda-commerce">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=panda-commerce&theme=react&bg_color=0D1117&hide_border=true" alt="panda-commerce">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=panda-commerce&theme=react&bg_color=0D1117&hide_border=true" alt="panda-commerce">
   </a>
+  
   <a href="https://github.com/iamraufu/covid19">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=covid19&theme=react&bg_color=0D1117&hide_border=true" alt="covid-19">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=covid19&theme=react&bg_color=0D1117&hide_border=true" alt="covid-19">
   </a>
- 
  <a href="https://github.com/iamraufu/ultra-nation">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=ultra-nation&theme=react&bg_color=0D1117&hide_border=true" alt="ultra-nation">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=ultra-nation&theme=react&bg_color=0D1117&hide_border=true" alt="ultra-nation">
   </a>
   <a href="https://github.com/iamraufu/quotes">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=quotes&theme=react&bg_color=0D1117&hide_border=true" alt="quotes"></a>
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=quotes&theme=react&bg_color=0D1117&hide_border=true" alt="quotes"></a>
+    
   <a href="https://github.com/iamraufu/jokes">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=jokes&theme=react&bg_color=0D1117&hide_border=true" alt="jokes"></a>
- 
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=jokes&theme=react&bg_color=0D1117&hide_border=true" alt="jokes"></a>
  <a href="https://github.com/iamraufu/leader-board">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=leader-board&theme=react&bg_color=0D1117&hide_border=true" alt="leader-board">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=leader-board&theme=react&bg_color=0D1117&hide_border=true" alt="leader-board">
   </a>
   <a href="https://github.com/iamraufu/backpack-moon">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=backpack-moon&theme=react&bg_color=0D1117&hide_border=true" alt="backpack-moon">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=backpack-moon&theme=react&bg_color=0D1117&hide_border=true" alt="backpack-moon">
   </a>
+  
   <a href="https://github.com/iamraufu/raufu-bank">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=raufu-bank&theme=react&bg_color=0D1117&hide_border=true" alt="raufu-bank">
-  </a>
-    
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=raufu-bank&theme=react&bg_color=0D1117&hide_border=true" alt="raufu-bank">
+  </a>  
    <a href="https://github.com/iamraufu/shopping-cart">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=shopping-cart&theme=react&bg_color=0D1117&hide_border=true" alt="shopping-cart"></a>
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=shopping-cart&theme=react&bg_color=0D1117&hide_border=true" alt="shopping-cart"></a>
   <a href="https://github.com/iamraufu/cruisequeen">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=cruisequeen&theme=react&bg_color=0D1117&hide_border=true" alt="cruisequeen"></a>
-  <a href="https://github.com/iamraufu/raufu-bank-locker">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=raufu-bank-locker&theme=react&bg_color=0D1117&hide_border=true" alt="raufu-bank-locker"></a>
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=cruisequeen&theme=react&bg_color=0D1117&hide_border=true" alt="cruisequeen"></a>
     
+  <a href="https://github.com/iamraufu/raufu-bank-locker">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=raufu-bank-locker&theme=react&bg_color=0D1117&hide_border=true" alt="raufu-bank-locker"></a>
 <a href="https://github.com/iamraufu/birthdaycountdown">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=birthdaycountdown&theme=react&bg_color=0D1117&hide_border=true" alt="birthdaycountdown">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=birthdaycountdown&theme=react&bg_color=0D1117&hide_border=true" alt="birthdaycountdown">
   </a>
   <a href="https://github.com/iamraufu/bplt20">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=bplt20&theme=react&bg_color=0D1117&hide_border=true" alt="bplt20"></a>
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=bplt20&theme=react&bg_color=0D1117&hide_border=true" alt="bplt20"></a>
+    
 <a href="https://github.com/iamraufu/hard-rock">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=hard-rock&theme=react&bg_color=0D1117&hide_border=true" alt="hard-rock">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=hard-rock&theme=react&bg_color=0D1117&hide_border=true" alt="hard-rock">
   </a>
-     
 <a href="https://github.com/iamraufu/SportsX">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=SportsX&theme=react&bg_color=0D1117&hide_border=true" alt="SportsX"></a>
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=SportsX&theme=react&bg_color=0D1117&hide_border=true" alt="SportsX"></a>
 <a href="https://github.com/iamraufu/burj-al-arab">
-    <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=burj-al-arab&theme=react&bg_color=0D1117&hide_border=true" alt="burj-al-arab">
+    <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=burj-al-arab&theme=react&bg_color=0D1117&hide_border=true" alt="burj-al-arab">
   </a>
 </p>
 
