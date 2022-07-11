@@ -42,7 +42,7 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 
 <a href="https://github.com/iamraufu/iamraufu/raw/main/Assets/Resume%20of%20Eftykhar%20Rahman.pdf" download>Download Resume</a>
 
-## Projects
+## Projects 🚀
 
 <p align="center">
   
@@ -119,7 +119,7 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
   </a>
 </p>
 
-## Connect with me:
+## 🔗 Connect with me
 
 [<img align="left" alt="iamraufu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
@@ -129,7 +129,7 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 
 <br /> 
 
-## Languages
+## Languages 📙
 
 <!--![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)-->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -144,7 +144,7 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 ![Flutter](https://img.shields.io/badge/-Flutter-000005?style=flat&logo=flutter)
 <!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
 
-## Tools:
+## Tools 🛠️
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
@@ -163,7 +163,7 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
 ![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)
 
-## GitHub Overview
+## GitHub Overview 💻
 
 <p align="left">
  <a href="https://github.com/iamraufu"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamraufu&theme=dark"></a>
