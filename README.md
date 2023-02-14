@@ -19,7 +19,7 @@
 I am Eftykhar Rahman. But you will find me everywhere with the handle name **Raufu Prezens**. I'm a self-taught Web Developer.  
 
 - 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on <!-- Machine Learning --> an E-Commerce Web-App. Keep an eye for it.
+- 🔭 I’m currently working on <!-- Machine Learning --> an E-Farmer Web-App. Keep an eye for it.
 - 🌱 I’m currently learning <!-- Machine Learning Libraries --> ~Web 3.0 Technologies~
 - 👯 I’m looking to collaborate on opensource and group projects.
 
@@ -47,7 +47,7 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 <p align="center">
   
   <a href="https://github.com/iamraufu/corporate-orders-client">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=https://github.com/iamraufu/corporate-orders-client&theme=react&bg_color=0D1117&hide_border=true" alt="Shwapno Corporate Orders">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=corporate-orders-client&theme=react&bg_color=0D1117&hide_border=true" alt="Shwapno Corporate Orders">
   </a>
   
   <a href="https://github.com/iamraufu/skillshikhun">
