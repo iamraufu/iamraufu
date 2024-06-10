@@ -19,7 +19,7 @@
 I am Eftykhar Rahman. But you will find me everywhere with the handle name **Raufu Prezens**. I'm a self-taught Web Developer.  
 
 - 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on <!-- Machine Learning --> an ~E-Farmer~ **Vendor Manage Inventory Transparency Web-App of Shwapno**. Keep an eye for it.
+- 🔭 I’m currently working on <!-- Machine Learning --> **Distribution Center Automation of Shwapno**. Keep an eye for it.
 - 🌱 I’m currently learning <!-- Machine Learning Libraries --> ~Web 3.0 Technologies~
 - 👯 I’m looking to collaborate on opensource and group projects.
 
