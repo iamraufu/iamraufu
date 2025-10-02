@@ -29,15 +29,23 @@ I am Eftykhar Rahman. But you will find me everywhere with the handle name **Rau
 
 <!-- I'm interested in developing user friendly web apps in **MERN Stack**. I love to work with new technologies and playing with different stacks 🤖 -->
 
-Having some expertise in **Front End Development**. Experienced with various ways to deal with the advancement of dynamic web projects. Knowledgeable in various programming dialects and libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python** and so on. 
+<!-- Old Bio -->
+<!-- Having some expertise in **Front End Development**. Experienced with various ways to deal with the advancement of dynamic web projects. Knowledgeable in various programming dialects and libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python** and so on. 
 
 Solid foundation in Project Management and Customer Relations. Involvement with software development process like **Agile** , **Scrum** and **MVC (Model-View-Controller)** configuration design. 
 
-I'm keen on creating easy to understand web applications in **MERN Stack**. I love to work with new advances and playing with various stacks 🤖
+I'm keen on creating easy to understand web applications in **MERN Stack**. I love to work with new advances and playing with various stacks 🤖 -->
+
+<!-- Updated Bio -->
+Eftykhar Rahman is a full-stack web developer in the MERN Stack who is involved with coding and web development since 2018. Currently, working as a freelance developer. 
+
+He holds a bachelor's degree in Computer Science & Engineering and is pursuing his Postgraduate degree in Cybersecurity and Networks at the University of New Haven, and has over 4+ years of experience developing scalable software infrastructure across multiple domains, which include health, e-commerce, and businesses. 
+
+Along with being a businessperson, he always had a passion for teaching, and his goal is to pass on his knowledge to his students and empower them to achieve their goals in the IT sector.
 
 <!-- - Usesless Stats:
-- 🏅 Number of times I was asked to hack a FB : 5
-- 📱  Number of times I was approached with an app idea: 15 
+- 🏅 Number of times I was asked to hack a FB : 9
+- 📱  Number of times I was approached with an app idea: 21
 -->
 
 <a href="https://github.com/iamraufu/iamraufu/raw/main/Assets/CV%20of%20Eftykhar%20Rahman.pdf" download>Download Resume</a>
