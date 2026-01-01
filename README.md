@@ -20,7 +20,7 @@ I am Eftykhar Rahman. But you will find me everywhere with the handle name **Rau
 
 - 💻 I ~like~ **love** coding
 - 🔭 I’m currently working on **Penetration Testing**
-- 🌱 I’m currently learning Cybersecurity Analyst | SOC Analyst
+- 🌱 I’m currently learning to be a Cybersecurity Analyst | SOC Analyst
 - 👯 I’m looking to collaborate on open-source and group projects.
 
 <!-- Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python**, **FORTRAN**, **MATLAB** etc. -->
@@ -54,7 +54,7 @@ Along with being a businessperson, he always had a passion for teaching, and his
 
 <p align="center">
   
-  <a href="[https://github.com/iamraufu/fotonoptix](https://fotonoptix.vercel.app/)">
+  <a href="https://fotonoptix.vercel.app/">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=fotonoptix&theme=react&bg_color=0D1117&hide_border=true" alt="fotonoptix">
   </a>
   
