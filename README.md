@@ -54,11 +54,11 @@ Along with being a businessperson, he always had a passion for teaching, and his
 
 <p align="center">
   
-  <a href="https://github.com/iamraufu/skillshikhun">
+  <a href="https://github.com/iamraufu/fotonoptix">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=fotonoptix&theme=react&bg_color=0D1117&hide_border=true" alt="fotonoptix">
   </a>
   
-  <a href="https://github.com/iamraufu/skillshikhun">
+  <a href="https://github.com/iamraufu/inside-ev">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=inside-ev&theme=react&bg_color=0D1117&hide_border=true" alt="inside-ev">
   </a>
   
