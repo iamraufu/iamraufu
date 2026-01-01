@@ -19,9 +19,9 @@
 I am Eftykhar Rahman. But you will find me everywhere with the handle name **Raufu Prezens**. I'm a self-taught Web Developer.  
 
 - 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on <!-- Machine Learning --> **Distribution Center Automation of Shwapno**. Keep an eye for it.
-- 🌱 I’m currently learning <!-- Machine Learning Libraries --> ~Web 3.0 Technologies~
-- 👯 I’m looking to collaborate on opensource and group projects.
+- 🔭 I’m currently working on **Penetration Testing**
+- 🌱 I’m currently learning Cybersecurity Analyst | SOC Analyst
+- 👯 I’m looking to collaborate on open-source and group projects.
 
 <!-- Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python**, **FORTRAN**, **MATLAB** etc. -->
 
